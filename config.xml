@@ -78,16 +78,16 @@
     <dnsserver>8.8.8.8</dnsserver>
     <language>en_US</language>
     <backup>
-      <git version="1.0.0" persisted_at="1757125383.78">
+      <git version="1.0.0" persisted_at="1757125556.29">
         <enabled>1</enabled>
         <url>ssh://github.com/ProfessorManhattan/opnsense-backups.git</url>
         <branch>main</branch>
         <privkey>-----BEGIN OPENSSH PRIVATE KEY-----&#13;
 b3BlbnNzaC1rZXktdjEAAAAABG5vbmUAAAAEbm9uZQAAAAAAAAABAAAAMwAAAAtzc2gtZW&#13;
-QyNTUxOQAAACBBkGP9SQmjm1EZrB4wom9OEu6DwhnOoJxXA2SHuAmYPQAAAJhoSQMtaEkD&#13;
-LQAAAAtzc2gtZWQyNTUxOQAAACBBkGP9SQmjm1EZrB4wom9OEu6DwhnOoJxXA2SHuAmYPQ&#13;
-AAAEBHSK8/mbPwhP/M0o3f1qsH7zvyBq62Zy7A03RCrgDEukGQY/1JCaObURmsHjCib04S&#13;
-7oPCGc6gnFcDZIe4CZg9AAAAFGJyaWFuQG1lZ2FieXRlLnNwYWNlAQ==&#13;
+QyNTUxOQAAACBhakw2LhHiDzCXCseNXDMtRNJo1awYgZM1ZnznzZyX1AAAAJhUzZ05VM2d&#13;
+OQAAAAtzc2gtZWQyNTUxOQAAACBhakw2LhHiDzCXCseNXDMtRNJo1awYgZM1ZnznzZyX1A&#13;
+AAAEBoQCXM2YpqSeBgOc4ltX3Q/7SiDGyHVycsF+PTSAEW72FqTDYuEeIPMJcKx41cMy1E&#13;
+0mjVrBiBkzVmfOfNnJfUAAAAFGJyaWFuQG1lZ2FieXRlLnNwYWNlAQ==&#13;
 -----END OPENSSH PRIVATE KEY-----</privkey>
         <user>git</user>
         <password/>
@@ -231,7 +231,7 @@ AAAEBHSK8/mbPwhP/M0o3f1qsH7zvyBq62Zy7A03RCrgDEukGQY/1JCaObURmsHjCib04S&#13;
   <revision>
     <username>root@10.0.0.240</username>
     <description>/diag_backup.php made changes</description>
-    <time>1757125383.78</time>
+    <time>1757125556.29</time>
   </revision>
   <OPNsense>
     <wireguard>
