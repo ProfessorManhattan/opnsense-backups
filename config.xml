@@ -78,7 +78,7 @@
     <dnsserver>8.8.8.8</dnsserver>
     <language>en_US</language>
     <backup>
-      <git version="1.0.0" persisted_at="1757124916.64">
+      <git version="1.0.0" persisted_at="1757124979.08">
         <enabled>1</enabled>
         <url>ssh://github.com/ProfessorManhattan/opnsense-backups.git</url>
         <branch>master</branch>
@@ -262,7 +262,7 @@ Zse8RryfOVESu1AAAACXVzZXJAd29yawE=&#13;
   <revision>
     <username>root@10.0.0.240</username>
     <description>/diag_backup.php made changes</description>
-    <time>1757124916.64</time>
+    <time>1757124979.08</time>
   </revision>
   <OPNsense>
     <wireguard>
